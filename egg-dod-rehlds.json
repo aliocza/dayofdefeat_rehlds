@@ -1,5 +1,8 @@
 {
     "_comment": "CUSTOM EGG",
+    "meta": {
+      "version": "PTDL_v2"
+    },
     "name": "Day of defeat - ReHLDS",
     "author": "contact@aliocha.be",
     "description": "Day of defeat ReHLDS binaries egg.\r\n\r\nReHLDS is a reverse-engineered, optimized version of HLDS.\r\nDeveloped by third-party modders to improve stability, performance, and security.\r\nFully compatible with MetaMod, AMX Mod X, and other plugins.\r\n\r\nIncluded modules are rehlds, reunion, amxmodx and metamod-r",

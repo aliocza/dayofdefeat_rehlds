@@ -80,12 +80,12 @@
         },
         {
             "name": "Game ID",
-            "description": "The ID corresponding to the game to download and run using HLDS.\r\n\r\nThe HLDS server ID is 30. This should not be changed.",
+            "description": "The ID corresponding to the game to download and run using HLDS.\r\n\r\nThe HLDS server ID is 90. This should not be changed.",
             "env_variable": "SRCDS_APPID",
-            "default_value": "30",
+            "default_value": "90",
             "user_viewable": false,
             "user_editable": false,
-            "rules": "required|numeric|in:30",
+            "rules": "required|numeric|in:90",
             "field_type": "text"
         },
         {

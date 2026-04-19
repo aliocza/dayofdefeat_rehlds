@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Counter-Strike 1.6 Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, AMDMXODX, REUNION, DPROTO, ECC.
+Day of defeat Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, AMDMXODX, REUNION, DPROTO, ECC.
 </p>
 
 <p align="center">
@@ -15,11 +15,8 @@ Counter-Strike 1.6 Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, 
 </p>
 
 ## Eggs
-Egg for Pterodactyl Game Panels to install Counter-Strike 1.6 Server
+Egg for Pterodactyl Game Panels to install Day of defeat Server
 
-| Panel (egg download)                                                                                            | Author name                          | Status                    |
-| :-------------------------------------------------------------------------------------------------------------- | :----------------------------------- | :------------------------ |
-| [Pterodactyl](https://github.com/Ptero-Eggs/game-eggs/blob/main/counter_strike/counter_strike_1.6_rehlds/egg-cs%201.6-rehlds.json) | [Red-Banana-Official](https://github.com/Red-Banana-Official) | Working |
 
 ## Systems
 
@@ -32,8 +29,6 @@ Egg for Pterodactyl Game Panels to install Counter-Strike 1.6 Server
 | [ReHLDS](https://github.com/dreamstalker/rehlds/)    | [dreamstalker](https://github.com/dreamstalker) |
 | [AMX Mod X](https://www.amxmodx.org/amxxdrop/1.9/)   | [AMXX Dev Team](https://www.amxmodx.org/)       |
 | [Metamod-r](https://github.com/theAsmodai/metamod-r) | [theAsmodai](https://github.com/theAsmodai)     |
-| [ReAPI](https://github.com/s1lentq/reapi)            | [s1lentq](https://github.com/s1lentq)           |
-| [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS) | [s1lentq](https://github.com/s1lentq)           |
 
 | HLDS                                                      | Author name                                                |
 | :-------------------------------------------------------- | :--------------------------------------------------------- |
